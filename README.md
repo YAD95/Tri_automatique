@@ -1,7 +1,7 @@
 ## 🇫🇷 Description
-Script qui vous permet de trier automatiquement vos fichiers 📂
+Script permettant de trier automatiquement vos fichiers par catégorie 📂
 
 ---
 
 ## 🇬🇧 Description
-A script that automatically organizes your files 📂
+A script that automatically sorts your files by category 📂
