@@ -1,1 +1,7 @@
-scirpt qui vous permettra de trier automatiquement vos fichiers : ) 
+## 🇫🇷 Description
+Script qui vous permet de trier automatiquement vos fichiers 📂
+
+---
+
+## 🇬🇧 Description
+A script that automatically organizes your files 📂
